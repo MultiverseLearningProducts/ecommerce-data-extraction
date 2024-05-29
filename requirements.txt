@@ -1,0 +1,7 @@
+configparser
+pandas
+SQLAlchemy
+psycopg2-binary
+boto3
+botocore
+pytest
